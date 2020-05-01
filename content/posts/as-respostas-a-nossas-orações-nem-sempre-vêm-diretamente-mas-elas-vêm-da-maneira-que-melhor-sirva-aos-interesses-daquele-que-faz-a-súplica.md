@@ -7,7 +7,7 @@ categories:
   - Citação
   - David O. McKay
 tags:
-  - oração
+  - Oração
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
