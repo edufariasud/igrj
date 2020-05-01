@@ -4,7 +4,7 @@ title: >-
   da maneira que melhor sirva aos interesses daquele que faz a súplica.
 date: '2020-05-01T02:31:23-03:00'
 categories:
-  - Discurso
+  - Citação
   - David O. McKay
 tags:
   - oração
