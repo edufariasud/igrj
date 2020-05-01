@@ -7,7 +7,6 @@ categories:
 tags:
   - Revelação Pessoal
   - Oração
-  - Resumo de Discurso
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
@@ -54,24 +53,20 @@ Nós temos direito à revelação. A revelação pessoal é básica para nossa s
 
 Eis o que Néfi registrou:
 
-“Se não endurecerdes vossos corações e se pedirdes com fé, acreditando que sereis atendidos e guardando diligentemente os meus mandamentos, certamente estas coisas vos serão dadas a conhecer”.(I Néfi 15:11).
+“Se não endurecerdes vossos corações e se pedirdes com fé, acreditando que sereis atendidos e guardando diligentemente os meus mandamentos, certamente estas coisas vos serão dadas a conhecer”. (I Néfi 15:11).
 
 O Livro de Mórmon fala de missionários de muito sucesso, os filhos de Mosias:
 
 “... eram homens de inteligências sãs e haviam examinado diligentemente as escrituras para poder conhecer a palavra de Deus.
 
-“E não só isso; tinham-se entregado a muitas orações e jejuns; por isso tinham o espírito de profecia e de revelação, e quando ensinavam, faziam-no com o poder e autoridade de Deus”.(Alma 17:2-3).
+“E não só isso; tinham-se entregado a muitas orações e jejuns; por isso tinham o espírito de profecia e de revelação, e quando ensinavam, faziam-no com o poder e autoridade de Deus”. (Alma 17:2-3).
 
 As escrituras fazem muitas referencias à revelação, assim como os profetas falaram muito a respeito. Para nós, significa que precisamos de experiências religiosas, de um relacionamento pessoal com Deus. Precisamos fazer o que dizia o Profeta Joseph Smith: “Contemplar intensamente os céus por cinco minutos”. 
-
-
 
 Gostaria de uma fórmula para obter revelação pessoal? Ela pode ser explicada de varias maneiras. A minha é simples:
 
 1. Examinar as escrituras.
-
 2. Guardar os mandamentos.
-
 3. Pedir com fé.
 
 Qualquer pessoa que o fizer, acabará com o coração tão sintonizado com o Senhor, que a “voz mansa e delicada” lhe revelará os princípios eternos da religião. E à medida que progride e se achega mais a Deus, chegará o dia em que falará com anjos, terá visões e finalmente contemplará a face de Deus.
@@ -83,3 +78,7 @@ A primeira grande revelação que a pessoa precisa conseguir é saber da divinda
 Colocando-se em sintonia, ela pode obter conhecimento para orientá-la em seus negócios particulares. Depois, desfrutando esse dom e nele progredindo, conseguirá todas as revelações da eternidade que o profeta e todos os outros profetas receberam em todas as épocas.
 
 Posso testificar que toda alma vivente que obedecer às leis de Deus, examinar as escrituras, guardar os mandamentos e pedir com fé, pode receber revelação pessoal do Todo-Poderoso para a grande glória e satisfação de sua alma aqui e salvação final nas moradas do alto.
+
+
+
+(Discurso Como Obter Revelação Pessoal, feito pelo Élder Bruce R. McConkie)
