@@ -46,33 +46,14 @@ Um lugar santo bem INESPERADO na vida de Joseph foi a Cadeia de Liberty. O Élde
 Uma líder geral da igreja pediu a centenas de moças que compartilhassem seus "lugares santos". Algumas das resposta foram:
 
 * Eu estava no hospital, segurando no colo meu irmão bebezinho.
-
-
-
 * Toda vez que leio minha bênção patriarcal. Quando leio, sinto que o Pai Celestial me conhece e me ama.
-
-
-
 * Quando eu estava lendo as escrituras, um dia, uma frase me veio à mente. Foi quando recebi uma resposta a minhas orações.
-
-
-
 * Entrei numa festa em que as pessoas estavam bebendo e participando de outras coisas inaceitáveis. O Espírito me disse para sair dali e ir para casa. Fiz isso e, é claro, houveram "consequências sociais". No entanto, aquele momento me deu a confiança de que eu precisava para saber que posso viver o evangelho.
-
-
-
 * Durante o sacramento, eu estava pensando na Expiação. Reconheci a necessidade de perdoar alguém com quem eu estava zangada. Minha decisão de perdoar foi uma ação positiva que traria a Expiação para a minha vida cotidiana.
-
-
-
 * Certa noite, juntei coragem para compartilhar meus sentimentos sobre o evangelho e sobre o Livro de Mórmon com minha melhor amiga. Mais tarde, tive o privilégio de assistir ao batismo dela. Agora vamos à igreja juntas.
-
-
 
 Então, sejam seus locais sagrados lugares geográficos ou momentos no tempo, são igualmente sagrados e têm um incrível poder de fortalecimento.
 
 Eu sei q Jesus Cristo está nos aguardando, pronto para nos dar apoio, se nós "permanecermos em lugares santos e não formos movidos".
-
-
 
 Discurso original: [Seus Lugares Santos](https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-holy-places?lang=por)
