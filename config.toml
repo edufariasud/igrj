@@ -1,6 +1,7 @@
 baseURL = "https://example.com"
 title = "Meu Diário de Estudos"
 theme = "hugo-notepadium"
+copyright = ""
 
 languageCode = "pt-br"  # for the RSS generation
 defaultContentLanguage = "pt-br"
@@ -55,6 +56,6 @@ showCategories = true       # /categories/
 showTags = true             # /tags/
 
 [[params.nav.custom]]
-title = "About"
+title = "Sobre"
 url = "/about/"
 
