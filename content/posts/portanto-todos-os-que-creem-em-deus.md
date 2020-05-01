@@ -4,7 +4,7 @@ date: '2020-05-01T02:18:54-03:00'
 categories:
   - Livro de Mórmon
 tags:
-  - fé
+  - Fé
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
