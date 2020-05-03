@@ -1,5 +1,8 @@
 ---
 title: O homem natural é inimigo de Deus
+date: '2020-05-03T19:36:21-03:00'
+categories:
+  - Livro de Mórmon
 tags:
   - Mudança de Coração
   - Arrependimento
