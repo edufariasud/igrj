@@ -15,7 +15,7 @@ coverImage: ''
 ---
 Existem aqui e agora, visitas a serem feitas e almas famintas a serem alimentadas. 
 
-Nesse espírito, senti que devo dar (...) três metas a serem cumpridas:
+Nesse espírito, senti que devo dar três metas a serem cumpridas:
 
 1. Estudem com afinco.
 2. Orem com convicção.
@@ -55,12 +55,8 @@ Louvo aquelas que, com cuidado amoroso e preocupação compassiva alimentam o fa
 
 Que vocês creiam e que mantenham a chama de seu testemunho brilhando intensamente, aconteça o que acontecer.
 
-
-
 * Estudem com afinco.
 * Orem com convicção.
 * Sirvam de boa vontade.
-
-
 
 (Discurso original: [Três Metas para Guiá-las](https://www.churchofjesuschrist.org/study/general-conference/2007/10/three-goals-to-guide-you?lang=por))
