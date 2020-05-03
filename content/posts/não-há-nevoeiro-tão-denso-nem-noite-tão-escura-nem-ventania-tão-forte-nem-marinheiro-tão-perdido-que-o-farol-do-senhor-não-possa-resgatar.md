@@ -10,6 +10,8 @@ tags:
   - Fé
   - Obediência
   - Jesus Cristo
+keywords:
+  - Teste
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: ''
