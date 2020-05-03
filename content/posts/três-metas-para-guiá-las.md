@@ -15,7 +15,7 @@ coverImage: ''
 ---
 Existem aqui e agora, visitas a serem feitas e almas famintas a serem alimentadas. 
 
-Nesse espírito, senti que devo dar três metas a serem cumpridas:
+Nesse espírito, senti que devo dar (...) três metas a serem cumpridas:
 
 1. Estudem com afinco.
 2. Orem com convicção.
@@ -41,11 +41,11 @@ Portanto, não te envergonhes do testemunho de nosso Senhor.”
 
 Além de nosso estudo de temas espirituais, o aprendizado secular também é essencial. Com freqüência o futuro é desconhecido; portanto, cabe a nós, prepararmo-nos para as incertezas. 
 
-**A segunda meta que quero mencionar é: Orem com convicção. **O Senhor ordenou: “Ora sempre e derramarei meu Espírito sobre ti e grande será tua bênção”.
+**A segunda meta que quero mencionar é: Orem com convicção.  **O Senhor ordenou: “Ora sempre e derramarei meu Espírito sobre ti e grande será tua bênção”.
 
 Talvez nunca tenha havido uma época em que tivéssemos maior necessidade de orar e de ensinar os membros da família a orar. A oração é a defesa contra a tentação. É por meio da oração sincera que podemos receber as bênçãos e o apoio necessários para que sigamos nosso caminho nesta jornada às vezes difícil e desafiadora a que chamamos de mortalidade.
 
-**Finalmente, sirvam de boa vontade. **Vocês são uma vigorosa força para o bem, uma das maiores de todo o mundo. Sua influência estende-se para muito além de vocês mesmas e de seu lar, e toca outras pessoas de toda a Terra. Vocês estenderam a mão a seus irmãos e irmãs ao longo das ruas, das cidades, das nações, dos continentes e dos oceanos.
+**Finalmente, sirvam de boa vontade.  **Vocês são uma vigorosa força para o bem, uma das maiores de todo o mundo. Sua influência estende-se para muito além de vocês mesmas e de seu lar, e toca outras pessoas de toda a Terra. Vocês estenderam a mão a seus irmãos e irmãs ao longo das ruas, das cidades, das nações, dos continentes e dos oceanos.
 
 Vocês estão naturalmente rodeadas de oportunidades de serviço. Sem dúvida, às vezes vocês vêem tantas oportunidades que se sentem meio oprimidas por elas. Por onde começo? Como vou fazer tudo isso? Como escolher, dentre todas as necessidades que encontro, onde e como servir?
 
