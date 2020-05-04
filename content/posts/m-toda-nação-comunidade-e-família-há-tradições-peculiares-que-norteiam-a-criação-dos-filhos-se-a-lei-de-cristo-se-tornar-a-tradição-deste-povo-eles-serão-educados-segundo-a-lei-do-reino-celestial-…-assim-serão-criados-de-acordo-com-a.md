@@ -1,6 +1,6 @@
 ---
 title: >-
-  m toda nação, comunidade e família, há tradições peculiares que norteiam a
+  Em toda nação, comunidade e família, há tradições peculiares que norteiam a
   criação dos filhos. Se a lei de Cristo se tornar a tradição deste povo, eles
   serão educados segundo a lei do reino celestial. (…) Assim, serão criados de
   acordo com as tradições de seus pais para fazer somente o que for certo e
