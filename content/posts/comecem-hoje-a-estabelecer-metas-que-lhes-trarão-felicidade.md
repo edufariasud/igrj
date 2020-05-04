@@ -1,5 +1,6 @@
 ---
 title: Comecem hoje a estabelecer metas que lhes trarão felicidade
+date: '2020-05-04T04:16:24-03:00'
 categories:
   - Citação
   - Gordon B. Hinckley
