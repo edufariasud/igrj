@@ -9,7 +9,8 @@ categories:
   - Thomas S. Monson
 tags:
   - Oração
-  - Serviço. Sacerdócio
+  - Serviço
+  - Sacerdócio
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: ''
