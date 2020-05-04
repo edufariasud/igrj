@@ -1,5 +1,6 @@
 ---
 title: 'Quero pedir-lhes que se elevam até o potencial que têm dentro de si. '
+date: '2020-05-04T04:19:58-03:00'
 categories:
   - Citação
   - Dieter F. Uchtdorf
