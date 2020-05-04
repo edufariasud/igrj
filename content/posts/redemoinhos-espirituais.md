@@ -1,5 +1,6 @@
 ---
 title: Redemoinhos Espirituais
+date: '2020-05-04T19:34:21-03:00'
 categories:
   - Resumo de Discurso
   - Neil L. Andersen
