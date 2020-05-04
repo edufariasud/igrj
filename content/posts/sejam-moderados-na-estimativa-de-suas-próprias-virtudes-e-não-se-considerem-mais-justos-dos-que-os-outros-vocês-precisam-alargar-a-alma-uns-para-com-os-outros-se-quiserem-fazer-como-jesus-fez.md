@@ -1,6 +1,6 @@
 ---
 title: >-
-  sejam moderados na estimativa de suas próprias virtudes e não se considerem
+  Sejam moderados na estimativa de suas próprias virtudes e não se considerem
   mais justos dos que os outros; vocês precisam alargar a alma uns para com os
   outros, se quiserem fazer como Jesus fez
 date: '2020-05-03T21:35:40-03:00'
