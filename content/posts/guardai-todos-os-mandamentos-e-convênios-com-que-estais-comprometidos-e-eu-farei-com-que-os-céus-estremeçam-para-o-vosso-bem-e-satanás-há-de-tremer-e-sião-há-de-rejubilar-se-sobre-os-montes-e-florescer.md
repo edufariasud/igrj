@@ -1,8 +1,5 @@
 ---
-title: >-
-  Guardai todos os mandamentos e convênios com que estais comprometidos e eu
-  farei com que os céus estremeçam para o vosso bem; e Satanás há de tremer e
-  Sião há de rejubilar-se sobre os montes e florescer.
+title: Guardai todos os mandamentos e convênios com que estais comprometidos.
 date: '2020-05-02T10:58:22-03:00'
 categories:
   - Doutrina e Convênios
