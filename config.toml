@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://igrj.netlify.app/"
 title = "Igrj"
 theme = "hugo-notepadium"
 copyright = " "
