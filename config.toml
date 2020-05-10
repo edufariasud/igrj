@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "Meu Diário de Estudos"
+title = "Igrj"
 theme = "hugo-notepadium"
 copyright = " "
 
@@ -54,7 +54,3 @@ darkTheme = "xcode-dark"
 [params.nav]
 showCategories = true       # /categories/
 showTags = true             # /tags/
-
-[[params.nav.custom]]
-title = "Sobre"
-url = "/about/"
